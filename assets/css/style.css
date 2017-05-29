@@ -1,0 +1,41 @@
+
+	  	body{
+	  		background-color: gray;
+	  	}
+
+  		#logo{
+  			text-align: center;
+  		}
+  		#main{
+  			background-color: black;
+  			text-align: center;
+  			color: lightblue;
+  			height: 40px;
+  		}
+  		footer{
+  			background-color: black;
+  			color: lightblue;
+  			height: 40px;
+  			margin-left: 50px;
+        margin-top: 10px;
+  		}
+  		#navText{
+  			font-weight: bold;
+  		}
+		.main{
+			margin-left: 80px;
+		}
+		.main label{
+			color: white;
+		}
+  		.button{
+  			color:black;
+  			margin: 0px;
+  			padding: 0px;
+  		}
+     #userGuess, #randNumber {
+        font-size: 110px;
+      }
+      .ucf{
+        text-align: center;
+      }
